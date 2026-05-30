@@ -1,0 +1,18 @@
+Algoritmo Clase22_05_Ejercicio6
+	
+	Definir lado, fila, columna Como Entero
+	
+	Escribir "Ingrese la longitud del lado del cuadrado:"
+	Leer lado
+	
+	Para fila <- 1 Hasta lado Hacer
+		
+		Para columna <- 1 Hasta lado Hacer
+			Escribir Sin Saltar "* "
+		FinPara
+		
+		Escribir ""
+		
+	FinPara
+	
+FinAlgoritmo
